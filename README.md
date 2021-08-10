@@ -4,7 +4,7 @@
 **include libraries:**
 - tkinter
 - pytube
- **Functions:**
+**used functions:**
 - Downloader()
      
  **Summary:**
