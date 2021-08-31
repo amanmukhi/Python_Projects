@@ -37,13 +37,12 @@
 **3. Addition Operation Project**
 
 **include Library:**
-
--tkinter
+- tkinter
 
 **function used:**
--add()
--clr()
--clr_all()
+- add()
+- clr()
+- clr_all()
 
 **Summary:**
        In this simple project, you can findout the addition betwwen two natural numbers. It's design very simple and easy to use.
