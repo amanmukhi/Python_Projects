@@ -30,3 +30,19 @@
 
 **Summary:**
        In this project, we can play a game with computer using python.I will used tkinter library and randod library to complete Rock Paper Scissors Game.
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+**3. Addition Operation Project**
+
+**include Library:**
+-tkinter
+
+**function used:**
+-add()
+-clr()
+-clr_all()
+
+**Summary:**
+       In this simple project, you can findout the addition betwwen two natural numbers. It's design very simple and easy to use.
