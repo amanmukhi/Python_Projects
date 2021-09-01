@@ -46,3 +46,24 @@
 
 **Summary:**
        In this simple project, you can findout the addition betwwen two natural numbers. It's design very simple and easy to use.
+       
+
+---------------------------------------------------------------------------------------------------------------------
+
+**4. Simple Calculator Project**
+
+**include Library:**
+- tkinter
+
+**function used:**
+- click_button(number):
+- add()
+- sub()
+- mul()
+- div()
+- equal()
+- clear()
+- back()
+
+**Summary:**
+       In this project, you can make a calculate easily. 
